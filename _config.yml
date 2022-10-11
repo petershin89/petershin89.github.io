@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "dgun's **Swift** Wolrd"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Peter Shin(a.k.a. dgun)"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Peter Shin(a.k.a. dgun)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "dgun's **Swift* Wolrd"
+  bio              : #"MBA Sogang University"
   location         : "Seoul, South Korea"
   email            : "petershin89@gmail.com"
   links:
