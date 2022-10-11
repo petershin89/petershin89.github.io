@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Peter Shin(a.k.a. dgun)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "dgun's **Swift* Wolrd"
+  location         : "Seoul, South Korea"
+  email            : "petershin89@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
