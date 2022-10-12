@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Dgun's Swift Wolrd"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : Swift On One
 name                     : "Peter Shin"
 description              : "dgun's Swift Wolrd"
 url                      : "https://petershin89.github.io"
